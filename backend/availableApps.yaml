@@ -1,0 +1,4 @@
+apps:
+  - name: rTorrent
+  - name: Sabnzbd
+  - name: Transmission
